@@ -10,7 +10,7 @@ import java.util.List;
 
 public class Main7 {
 
-	public static String PATH = "D:\\Danijel\\Shit for college\\5 Godina\\NENR\\zad7-dataset.txt";
+	public static String PATH = "...\\NENR\\zad7-dataset.txt";
 	public static int POPULATION_SIZE = 75;
 	public static String ARCHITECTURE = "2x8x3";
 	public static double STD_DEV_M1 = 1, STD_DEV_M2 = 3, STD_DEV_M3 = 1.5;
