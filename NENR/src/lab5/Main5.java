@@ -16,7 +16,7 @@ import javax.swing.JFrame;
 public class Main5 {
 	
 	public static int SAMPLES_PER_CLASS = 20, CLASSES = 5, SAMPLE_SIZE = 10;
-	public static String PATH = "D:\\Danijel\\Shit for college\\5 Godina\\NENR\\lab5_Samples.txt";
+	public static String PATH = "...\\NENR\\lab5_Samples.txt";
 
 	public static void main(String[] args) {
 		/*
@@ -27,7 +27,7 @@ public class Main5 {
 		}
 		*/
 		
-		Path path1 = Paths.get("D:\\Danijel\\Shit for college\\5 Godina\\NENR\\lab5_Samples.txt");
+		Path path1 = Paths.get("...\\NENR\\lab5_Samples.txt");
 		String[] samples = null;
 		try {
 			List<String> list = Files.readAllLines(path1, StandardCharsets.UTF_8);
