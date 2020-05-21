@@ -11,8 +11,8 @@ public class Main4 {
 		int instanceSize = 5;
 		double mutationProb = 0.015;
 		
-		Path path1 = Paths.get("D:\\Danijel\\Shit for college\\5 Godina\\NENR\\zad4-dataset1.txt");
-		//Path path2 = Paths.get("D:\\Danijel\\Shit for college\\5 Godina\\NENR\\zad4-dataset2.txt");
+		Path path1 = Paths.get("...NENR\\zad4-dataset1.txt");
+		//Path path2 = Paths.get("...\\NENR\\zad4-dataset2.txt");
 		
 		QualityEvaluator evaluator1 = new QualityEvaluator(path1, new GoodnessFunction());
 		//QualityEvaluator evaluator2 = new QualityEvaluator(path2, new GoodnessFunction());
