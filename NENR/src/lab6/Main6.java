@@ -8,7 +8,7 @@ public class Main6 {
 	public static double LEARNIGN_RATE_SMALL = 0.00000002;
 	public static int NUMBER_OF_RULES = 4;
 	
-	public static String PATH = "D:\\Danijel\\Shit for college\\5 Godina\\NENR\\lab6 report\\lab6_4RuleLearningError";
+	public static String PATH = "...\\NENR\\lab6 report\\lab6_4RuleLearningError";
 
 	public static void main(String[] args) throws IOException {
 		
